@@ -4,7 +4,7 @@
     "kernelSource": {
       "name": "ruby_kernel_ksu",
       "repo": "https://github.com/Coconutat/android_kernel_xiaomi_ruby_exp",
-      "branch": "MIUI14-KernelSU",
+      "branch": "MUI14-KernelSU",
       "device": "ruby",
       "defconfig": "ruby_defconfig"
     },
