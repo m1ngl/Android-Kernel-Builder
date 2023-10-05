@@ -6,7 +6,7 @@
       "repo": "https://github.com/Coconutat/android_kernel_xiaomi_ruby_exp",
       "branch": "MUI14-KernelSU",
       "device": "ruby",
-      "defconfig": "ruby_defconfig"
+      "defconfig": "ruby_user_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
