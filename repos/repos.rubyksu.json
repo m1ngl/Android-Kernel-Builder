@@ -3,12 +3,12 @@
   {
     "kernelSource": {
       "name": "ruby_kernel_ksu",
-      "repo": "https://github.com/Coconutat/android_kernel_xiaomi_ruby_exp",
-      "branch": "MUI14-KernelSU",
+      "repo": "https://github.com/PQEnablers-Devices/android_kernel_xiaomi_mt6877",
+      "branch": "lineage-20",
       "device": "ruby",
-      "defconfig": "ruby_user_defconfig"
+      "defconfig": "ruby_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
