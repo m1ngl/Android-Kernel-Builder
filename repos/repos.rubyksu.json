@@ -2,11 +2,11 @@
 [
   {
     "kernelSource": {
-      "name": "ruby_kernel_ksu",
+      "name": "realme_rmx3142_ksu",
       "repo": "https://github.com/PQEnablers-Devices/android_kernel_xiaomi_mt6877",
-      "branch": "lineage-20",
-      "device": "ruby",
-      "defconfig": "ruby_defconfig"
+      "branch": "master",
+      "device": "rmx3142",
+      "defconfig": "ranchu64_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
