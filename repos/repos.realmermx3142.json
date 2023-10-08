@@ -3,7 +3,7 @@
   {
     "kernelSource": {
       "name": "realme_rmx3142_ksu",
-      "repo": "https://github.com/PQEnablers-Devices/android_kernel_xiaomi_mt6877",
+      "repo": "https://github.com/realme-kernel-opensource/realmeQ3_Q3pro_AndroidS_kernel-source",
       "branch": "master",
       "device": "rmx3142",
       "defconfig": "ranchu64_defconfig"
