@@ -6,7 +6,7 @@
       "repo": "https://github.com/realme-kernel-opensource/realmeQ3_Q3pro_AndroidS_kernel-source",
       "branch": "master",
       "device": "rmx3142",
-      "defconfig": "defconfig"
+      "defconfig": "gki_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
