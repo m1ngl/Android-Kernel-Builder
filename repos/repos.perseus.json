@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Xiaomi_Perseus_KSU",
-      "repo": "https://github.com/diphons/D8G_Kernel",
-      "branch": "main",
+      "repo": "https://github.com/lonelystar9x/android_kernel_xiaomi_sdm845",
+      "branch": "lineage-21-SU",
       "device": "perseus",
-      "defconfig": "sdm845-perf_defconfig"
+      "defconfig": "sdm845_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
