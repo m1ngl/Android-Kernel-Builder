@@ -5,7 +5,7 @@
       "repo": "https://github.com/lonelystar9x/android_kernel_xiaomi_sdm845",
       "branch": "lineage-21-SU",
       "device": "perseus",
-      "defconfig": "vendor/xiaomi/perseus.config"
+      "defconfig": "sdm845-perf_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
