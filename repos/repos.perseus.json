@@ -5,7 +5,7 @@
       "repo": "https://github.com/diphons/D8G_Kernel",
       "branch": "main",
       "device": "perseus",
-      "defconfig": "perseus_defconfig"
+      "defconfig": "sdm845_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
